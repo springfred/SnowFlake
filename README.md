@@ -26,7 +26,8 @@ snowflake生成的ID整体上按照时间自增排序，并且整个分布式系
 
 
 ### 参考
+|#|URL|
 |---|----|
-|1|`|[理解分布式id生成算法SnowFlake](https://segmentfault.com/a/1190000011282426)|
-|2|`|[Twitter的分布式自增ID算法snowflake (Java版)](https://www.cnblogs.com/relucent/p/4955340.html)|
-|3|`|[数据库分库分表（二）Twitter-Snowflake（64位分布式ID算法）分析与JAVA实现](https://www.jianshu.com/p/80e68ae9e3a4)|
+|1|[理解分布式id生成算法SnowFlake](https://segmentfault.com/a/1190000011282426)|
+|2|[Twitter的分布式自增ID算法snowflake (Java版)](https://www.cnblogs.com/relucent/p/4955340.html)|
+|3|[数据库分库分表（二）Twitter-Snowflake（64位分布式ID算法）分析与JAVA实现](https://www.jianshu.com/p/80e68ae9e3a4)|
