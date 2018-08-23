@@ -24,3 +24,9 @@ snowflake的结构如下(每部分用-分开):
 
 snowflake生成的ID整体上按照时间自增排序，并且整个分布式系统内不会产生ID碰撞（由datacenter和workerId作区分），并且效率较高。据说：snowflake每秒能够产生26万个ID。
 
+--------------------------------
+[segmentfault]:https://segmentfault.com/a/1190000011282426 "理解分布式id生成算法SnowFlake"
+[cnblogs]:https://www.cnblogs.com/relucent/p/4955340.html "Twitter的分布式自增ID算法snowflake (Java版)"
+[jianshu]:https://www.jianshu.com/p/80e68ae9e3a4 "数据库分库分表（二）Twitter-Snowflake（64位分布式ID算法）分析与JAVA实现"
+
+
